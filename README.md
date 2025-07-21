@@ -24,6 +24,8 @@
    Histogram: Checked distribution of salaries.
    
    Heatmap: Displayed feature correlation, helping to identify key predictors.
+   <img width="806" height="669" alt="image" src="https://github.com/user-attachments/assets/b1a306a8-d74f-4023-bcde-710728bbf466" />
+
 
 #🤖 Model Building and Evaluation
 
