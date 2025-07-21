@@ -22,6 +22,8 @@
    Scatter Plot: Showed clear relation between experience and salary.
    
    Histogram: Checked distribution of salaries.
+   <img width="1154" height="718" alt="image" src="https://github.com/user-attachments/assets/f3eaebb2-f60b-4a67-b83b-8ea53c6eb63a" />
+
    
    Heatmap: Displayed feature correlation, helping to identify key predictors.
    <img width="806" height="669" alt="image" src="https://github.com/user-attachments/assets/b1a306a8-d74f-4023-bcde-710728bbf466" />
